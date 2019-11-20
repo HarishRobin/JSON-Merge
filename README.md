@@ -15,7 +15,7 @@ Open Command Prompt or Terminal
 Command for Executing program:
 node merge.js /root/JSON data output 128000
               <--------> <--> <----> <---->
-		   		  a        b     c      d
+		  a        b     c      d
 					 
 Replace a,b,c,d with ur values respectively.
 
