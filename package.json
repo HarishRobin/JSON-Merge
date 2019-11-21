@@ -1,0 +1,22 @@
+{
+  "name": "mergerjson",
+  "version": "1.0.0",
+  "description": "\"An Utility function that can merge multiple json files into one single json file\"",
+  "main": "merge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarishRobin/Freshwork_Assignment.git"
+  },
+  "keywords": [
+    "JSON"
+  ],
+  "author": "HarishRobin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarishRobin/JSON-Merge/issues"
+  },
+  "homepage": "https://github.com/HarishRobin/JSON-Merge.git#readme"
+}
